@@ -1,0 +1,90 @@
+{
+  "semantics": [
+    {
+      "label": "Task Description",
+      "description": "显示在录音组件上方的可选文字。"
+    },
+    {
+      "label": "Localization",
+      "fields": [
+        {
+          "label": "Record button text",
+          "default": "录音"
+        },
+        {
+          "label": "Pause button text",
+          "default": "暂停"
+        },
+        {
+          "label": "Continue button text",
+          "default": "继续"
+        },
+        {
+          "label": "Download button text",
+          "default": "下载"
+        },
+        {
+          "label": "Done button text",
+          "default": "完成"
+        },
+        {
+          "label": "Retry button text",
+          "default": "重试"
+        },
+        {
+          "label": "Microphone not supported error message",
+          "default": "不支持您的麦克风，请您确定您的浏览器支持麦克风录音。"
+        },
+        {
+          "label": "Microphone inaccessible error message",
+          "default": "麦克风无法访问，请您确定您已经允许浏览器使用麦克风。"
+        },
+        {
+          "label": "Message displayed when insecure access is not allowed",
+          "description": "您当前的浏览器不支持HTTP网站使用麦克风，请使用HTTPS协议访问该网站。",
+          "default": "由于您的浏览器不支持HTTP访问的页面使用麦克风。请您联系网站作者，并且使用HTTPS协议访问网站。"
+        },
+        {
+          "label": "Ready to record status message",
+          "default": "点击下方按钮开始录制"
+        },
+        {
+          "label": "Recording status message",
+          "default": "录音中……"
+        },
+        {
+          "label": "Paused status message",
+          "default": "录音已暂停，请点击按钮继续录音。"
+        },
+        {
+          "label": "Finished recording status message",
+          "default": "您已经完成您的录制，请您点击播放按钮预览您的录音内容。"
+        },
+        {
+          "label": "Download recording message",
+          "default": "您可以下载录音或者重试。"
+        },
+        {
+          "label": "Retry dialog header text",
+          "default": "重新录音？"
+        },
+        {
+          "label": "Retry dialog body text",
+          "default": "如果您点击「重试」按钮，您之前录制的内容将被删除。"
+        },
+        {
+          "label": "Retry dialog confirm text",
+          "default": "重试"
+        },
+        {
+          "label": "Retry dialog cancel text",
+          "default": "取消"
+        },
+        {
+          "label": "Can't create audio file status message",
+          "default": "无法创建音频文件。"
+        }
+      ]
+    }
+  ]
+}
